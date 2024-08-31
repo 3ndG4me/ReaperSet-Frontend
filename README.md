@@ -1,5 +1,5 @@
 # ReaperSet-Frontend
-HTML frontend for ReaperSet that allows for listing and jumping to songs in a setlist with a single button click
+HTML frontend for ReaperSet that allows for listing and jumping to songs in a setlist with a single button click. Based on "fancier.html" that comes with stock Reaper.
 
 # About
 Reaper set was built to extend the functionality ReaperSet [https://github.com/3ndG4me/ReaperSet](https://github.com/3ndG4me/ReaperSet) or [https://github.com/sethcenterbar/ReaperSet](https://github.com/sethcenterbar/ReaperSet).
