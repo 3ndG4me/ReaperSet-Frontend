@@ -14,6 +14,7 @@ When used succesfully with ReaperSet, this frontend allows Reaper to have the fo
 Reaper + ReaperSet + ReaperSet-Frontend creats a live playback experience that supports:
 - Video for live visuals
 - Normal tracks and audio playback
+- Live mixing
 - Dynamic multi-project setlist generation (no more hoarding one giant playlist file)
 - Seamless playback between tracks (no more waiting for a project to close and then open like with Ableset's multi-project mode)
 - A responsive Web UI accessible from any browser, desktop or web, so you may adjust your performance live from a device other than your playback rig (imagine adjusting you IEM mix from your phone, or stopping or skipping a song in the set while not being in front of your laptop)
